@@ -1,6 +1,6 @@
 {
   "status": {
-    "is_enabled": false,
+    "is_enabled": true,
     "maintenance_message": "Downloader is temporarily disabled for maintenance.",
     "min_extension_version": "1.0",
     "update_message": "Update Required! Please update this extension in your browser."
@@ -24,7 +24,7 @@
     "category_keys": ["CATEGORIES"]
   },
   "endpoints": {
-    "page_ids_url": "https://www.rekhta.org/EbookData/GetEbookPageIds/",
+    "page_ids_url": "https://www.rekhta.org/EbookData/GetEbookPageIds1/",
     "page_data_url": "https://www.rekhta.org/EbookData/GetEbookFromApi/",
     "image_base_url": "https://ebooksapi.rekhta.org/images/"
   }
