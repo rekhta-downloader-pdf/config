@@ -1,0 +1,23 @@
+{
+  "status": {
+    "is_enabled": true,
+    "maintenance_message": "Downloader is temporarily disabled for maintenance."
+  },
+  "network": {
+    "max_retries": 3,
+    "cache_expiry_ms": 259200000,
+    "rate_limit_delay_ms": 2000,
+    "default_delay_ms": 300,
+    "jitter_ms": 500
+  },
+  "selectors": {
+    "viewer_title": "a.rbookNameAnchor",
+    "viewer_metadata_container": ".B-descript ul",
+    "detail_metadata_container": "divBookBasicInfo"
+  },
+  "endpoints": {
+    "page_ids_url": "https://www.rekhta.org/EbookData/GetEbookPageIds/",
+    "page_data_url": "https://www.rekhta.org/EbookData/GetEbookFromApi/",
+    "image_base_url": "https://ebooksapi.rekhta.org/images/"
+  }
+}
