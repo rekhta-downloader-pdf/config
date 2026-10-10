@@ -24,7 +24,7 @@
     "category_keys": ["CATEGORIES"]
   },
   "endpoints": {
-    "page_ids_url": "https://www.rekhta.org/EbookData/GetEbookPageIds1/",
+    "page_ids_url": "https://www.rekhta.org/EbookData/GetEbookPageIds/",
     "page_data_url": "https://www.rekhta.org/EbookData/GetEbookFromApi/",
     "image_base_url": "https://ebooksapi.rekhta.org/images/"
   }
