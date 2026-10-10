@@ -1,6 +1,6 @@
 {
   "status": {
-    "is_enabled": true,
+    "is_enabled": false,
     "maintenance_message": "Downloader is temporarily disabled for maintenance.",
     "min_extension_version": "1.0",
     "update_message": "Update Required! Please update this extension in your browser."
