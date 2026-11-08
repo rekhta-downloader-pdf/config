@@ -1,5 +1,7 @@
 # Privacy Policy
 
+**Last Updated:** November 2026
+
 **Rekhta Downloader PDF** extension is built with a strict "local-first" philosophy. Your privacy is paramount, and the extension is designed to operate securely on your own device.
 
 ## 1. What We DO NOT Collect
